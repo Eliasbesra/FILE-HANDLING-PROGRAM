@@ -78,3 +78,7 @@ This program is an excellent resource for teaching file I/O in C. Students can m
 This C program effectively demonstrates file handling operations, a crucial skill for developers working with persistent data storage. Its modular design, clear structure, and interactive menu make it an excellent learning tool while also serving as a foundation for more complex applications.  
 
 By understanding and extending this program, developers can build data loggers, configuration managers, and lightweight databases, making it a valuable addition to any programmer's toolkit.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d0fa0660-18fe-4ba1-a1a4-1bd092a4b3d7)
