@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-# File Operations in C:  
+# File Operations in C  
 
 File handling is a fundamental aspect of programming, enabling data persistence beyond the runtime of an application. The provided C program demonstrates essential file operations—creating, writing, reading, and appending—using standard C library functions. This program serves as a practical introduction to file I/O (Input/Output) operations, which are widely used in software development, embedded systems, and data management applications.  
 
