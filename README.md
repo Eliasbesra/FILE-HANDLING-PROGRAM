@@ -79,6 +79,6 @@ This C program effectively demonstrates file handling operations, a crucial skil
 
 By understanding and extending this program, developers can build data loggers, configuration managers, and lightweight databases, making it a valuable addition to any programmer's toolkit.
 
-#OUTPUT
+## Output
 
 ![Image](https://github.com/user-attachments/assets/d0fa0660-18fe-4ba1-a1a4-1bd092a4b3d7)
